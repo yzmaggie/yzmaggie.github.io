@@ -2,11 +2,11 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "曾颖  Ying Zeng"
+    github: yzmaggie
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
+    bio: 研究生  Master student
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -81,10 +81,7 @@ yayun:
 dianxing:
     display_name: "居佃兴 Dianxing Ju"
     role: collab
-    
-yingzeng :
-    display_name: "曾颖 Ying Zeng"
-    role: student    
+        
 
 
 ugrad-alum-a:

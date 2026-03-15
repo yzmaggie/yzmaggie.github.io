@@ -5,14 +5,14 @@ profx:
     display_name: "曾颖  Ying Zeng"
     github: yzmaggie
     role: faculty
-    image: /img/people/hang.jpg
+    image: https://yzmaggie.github.io/img/people/hang.jpg
     bio: 研究生  Master student
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
     display_name: "Scott Summers"
     role: staff
-    image: /img/people/scott.png
+    image: yzmaggie.github.io/img/people/scott.png
     bio: aka Cyclops
 
 wolverine:
